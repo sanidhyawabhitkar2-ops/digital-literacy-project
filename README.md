@@ -62,7 +62,7 @@ Set up professional profiles on the following platforms:
 | Platform | Profile Link |
 |----------|-------------|
 | GitHub | [github.com/yourusername](https://github.com/sanidhyawabhitkar2-ops) |
-| LinkedIn | [linkedin.com/in/yourprofile](www.linkedin.com/in/sanidhya-wabhitkar-7ab186392) |
+| LinkedIn | [linkedin.com/in/yourprofile](https://in.linkedin.com/in/sanidhya-wabhitkar-7ab186392) |
 | Kaggle / Stack Overflow | https://www.kaggle.com/sanidhyawabhitkar |
 
 📂 See: `task-2-portfolio/`
