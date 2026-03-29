@@ -1,10 +1,15 @@
 # 🌐 Digital Literacy Portfolio — CSE0001
 
 **Name:** Sanidhya Wabhitkar
+
 **Registration No.:** 25BCE10355 
+
 **Branch:** B.Tech – CSE
+
 **Year:** First Year  
+
 **Course Code:** CSE0001 – Digital Literacy  
+
 **Institution:** VIT Bhopal University  
 
 ---
